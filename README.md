@@ -17,7 +17,7 @@ The user may use the weather dashboard by searching a City Name. The user may al
 
 ## Screenshot
 
-Below is a screenshot of the sample readme generated, it can also be found under the sample folder in this repository.
+Below is a screenshot of the sample weather dashboard:
 
 ![Nux Tempestas XVII](./assets/images/screenshot.png)
 
